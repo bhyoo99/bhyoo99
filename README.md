@@ -1,4 +1,4 @@
-### Hi there, I'm ByungHoon YOO - aka Brian
+### Hi there, I'm ByungHoon YOO
 
 ## I'm a Front-end Developer [@onthelook](https://github.com/onthelook)
 
