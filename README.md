@@ -1,5 +1,4 @@
 ### Hi there, I'm ByungHoon YOO
-디스코드 - BangBang#0238
 
 ## I'm a Front-end Developer [@onthelook](https://github.com/onthelook)
 
