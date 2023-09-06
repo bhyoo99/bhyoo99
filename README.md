@@ -17,6 +17,7 @@ React-Native-cli 보단 expo-cli 를<br/>npm 보단 yarn을 선호합니다 :)
 #### expo
 - [기본 탬플릿 수정](https://github.com/expo/expo/pull/22734)
 - [트위치 API 문서 수정](https://github.com/expo/expo/pull/18387)
+- [expo 환경에서 FCM 활용가이드 중 잘못된 경로 업데이트](https://github.com/itsramiel/FCM_Push_Notifications_Guide/pull/1)
 
 #### supabase
 - [초기 한국어 번역](https://github.com/supabase/supabase/pull/8992)
