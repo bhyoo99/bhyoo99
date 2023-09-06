@@ -13,7 +13,7 @@ React-Native-cli 보단 expo-cli 를<br/>npm 보단 yarn을 선호합니다 :)
 제가 만들고 있는 프로젝트들의 진행사항은 [트위터](https://twitter.com/bhyoo99), [링크드인](https://www.linkedin.com/in/bhyoo99)에서 더 빠르게 확인하실 수 있습니다!<br/>
 <br/>
 
-### What I opensourced or issue raised
+### List of contributed open-sources and issues
 #### expo
 - [기본 탬플릿 수정](https://github.com/expo/expo/pull/22734)
 - [트위치 API 문서 수정](https://github.com/expo/expo/pull/18387)
